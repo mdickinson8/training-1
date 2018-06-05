@@ -1,3 +1,4 @@
 
 camera feature bang bang
 panorama setting
+added support for news feed
